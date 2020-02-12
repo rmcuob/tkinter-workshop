@@ -1,0 +1,9 @@
+'Microsoft' label: x=100, y=30
+
+'Sign in' label: x=70, y=70
+
+Entry-Box: x=80, y=130
+
+'No account?' label: x=80, y=190
+
+'create one!' label: x=150, y=190
