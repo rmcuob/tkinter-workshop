@@ -8,7 +8,7 @@ Tkinter is a Python binding to the Tk GUI toolkit. It is the standard Python int
 
 ### Downloading Pillow
 
-[Make sure you got pip installed]https://pip.pypa.io/en/stable/installing/
+[Make sure you got pip installed](https://pip.pypa.io/en/stable/installing/)
 
 In your terminal/cmd type:
 
