@@ -6,11 +6,25 @@ Tkinter is a Python binding to the Tk GUI toolkit. It is the standard Python int
 - Tkinter (built in Python libray)
 - Pillow 
 
-### Downloading Pillow
+### Installing Pillow
 
 [Make sure you got pip installed](https://pip.pypa.io/en/stable/installing/)
 
-In your terminal/cmd type:
+#### To check if pip is installed simply type in your terminal/cmd:
+
+For Windows:
+
+    python -m pip -V 
+    (OR) 
+    python3 -m pip -V
+    
+For Unix/Mac:
+
+    pip -V 
+    (OR)
+    pip3 -V
+    
+#### Downloading Pillow via pip
 
 Python 2
 
