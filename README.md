@@ -20,5 +20,7 @@ Python 3
 ## Useful Links
 
 [Tkinter Book](http://effbot.org/tkinterbook/)
+
 [Tkinter Documentation](https://docs.python.org/3/library/tk.html)
+
 [Quick Python Guide](https://www.pythonforbeginners.com/basics/python-quick-guide)
